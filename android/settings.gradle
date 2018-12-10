@@ -1,0 +1,3 @@
+rootProject.name = 'coastlineapp'
+
+include ':app'
